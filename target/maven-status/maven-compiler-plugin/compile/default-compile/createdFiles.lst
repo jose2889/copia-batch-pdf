@@ -1,0 +1,16 @@
+com\hernandez\batch\dao\entity\Voltage.class
+com\hernandez\batch\services\GenerarEstadoCuenta.class
+com\hernandez\batch\dao\entity\Archivo.class
+com\hernandez\batch\services\PdfService$1.class
+com\hernandez\batch\dao\entity\Cliente.class
+com\hernandez\batch\configuration\BatchConfiguration.class
+com\hernandez\batch\services\PdfService.class
+com\hernandez\batch\configuration\NotificationListener.class
+com\hernandez\batch\services\UploadFileServiceImpl.class
+com\hernandez\batch\Rest\util\SwaggerConfiguration.class
+com\hernandez\batch\configuration\VoltageProcessor.class
+com\hernandez\batch\SpringBatchPdfApplication.class
+com\hernandez\batch\services\GenerarEstadoCuentaService.class
+com\hernandez\batch\controller\BatchRestController.class
+com\hernandez\batch\TracePerformanceAspect.class
+com\hernandez\batch\services\IUploadFileService.class
